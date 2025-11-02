@@ -11,7 +11,7 @@ The following API endpoints were inspected from the browser’s **Network tab** 
 
 ### 👥 User Management
 - **Register a new user**
-- **Admin login** (`email: admin@test.com`, `password: admin123`)
+- **Admin login**
 - **Get user list**
 - **Search user by user ID**
 - **Edit user information** (e.g., first name, phone number)
