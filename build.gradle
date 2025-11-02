@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    testImplementation("io.rest-assured:rest-assured:5.5.6")
+    implementation("commons-configuration:commons-configuration:1.10")
+    testImplementation("org.testng:testng:7.11.0")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.20.0")
+    implementation("com.github.javafaker:javafaker:1.0.2")
+    implementation("io.qameta.allure:allure-testng:2.30.0")
+}
+
+test {
+    useTestNG()
+            {
+
+
+                suites "./src/test/resources/suite.xml";
+            }
+}

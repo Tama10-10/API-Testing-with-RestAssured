@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="DailyFinance automation">
+    <test name="User">
+        <classes>
+            <class name="TestRunner.UserTestRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Admin">
+        <classes>
+            <class name="TestRunner.AdminTestRunner">
+
+            </class>
+        </classes>
+    </test>
+</suite>
