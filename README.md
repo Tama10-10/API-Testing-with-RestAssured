@@ -32,10 +32,9 @@ Both **positive** and **negative test cases** have been included to ensure robus
 
 ## 🧾 Documentation Links
 
-- **📎 Postman Collection Documentation:** [(https://documenter.getpostman.com/view/45580392/2sB3WpR1Sz)]  
-- **🧪 Test Case Documentation:** [https://docs.google.com/spreadsheets/d/1Z_rNshHLkFIubZyMVoaMKoSb4MlDWfC-CORW0kI_0Vw/edit?usp=sharing]  
+- **📎 Postman Collection Documentation:** [View Postman Collection Documentation](https://documenter.getpostman.com/view/45580392/2sB3WpR1Sz)  
+- **🧪 Test Case Documentation:** [View Testcase Report](https://docs.google.com/spreadsheets/d/1Z_rNshHLkFIubZyMVoaMKoSb4MlDWfC-CORW0kI_0Vw/edit?usp=sharing)  
 - **📊 Allure Report Screenshot:**  
-  ![Allure Report]
 
 ---<img width="1363" height="647" alt="Resassured-Allure-report" src="https://github.com/user-attachments/assets/cf606844-5b5a-4311-b82c-b9b6c807c458" />
 
