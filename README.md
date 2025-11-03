@@ -33,7 +33,7 @@ Both **positive** and **negative test cases** have been included to ensure robus
 ## 🧾 Documentation Links
 
 - **📎 Postman Collection Documentation:** [(https://documenter.getpostman.com/view/45580392/2sB3WpR1Sz)]  
-- **🧪 Test Case Documentation:** []  
+- **🧪 Test Case Documentation:** [https://docs.google.com/spreadsheets/d/1Z_rNshHLkFIubZyMVoaMKoSb4MlDWfC-CORW0kI_0Vw/edit?usp=sharing]  
 - **📊 Allure Report Screenshot:**  
   ![Allure Report]
 
